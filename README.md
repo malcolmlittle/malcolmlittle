@@ -1,5 +1,5 @@
 
-# Hi, I'm Malcolm! 👋
+# Hey, I'm Malcolm! 👋
 
 
 ## 🚀 About Me
