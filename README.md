@@ -2,7 +2,6 @@
 # Hey, I'm Malcolm! 👋
 
 
-## 🚀 About Me
 I'm a full stack developer who enjoys working with backend technologies. Familiar with MongoDB, PostgreSQL, SQL Server and ORMs like MikrORM and Sequelize.
 
 
