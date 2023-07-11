@@ -7,7 +7,6 @@ I'm a full stack developer who enjoys working with backend technologies. Familia
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malcolm-little-50661b77/)
-[![Download Resume](https://img.shields.io/badge/-Download%20Resume-success?style=for-the-badge)](https://github.com/malcolmlittle/malcolmlittle/raw/main/RESUME.pdf)
 
 
 ## 🛠 Skills
