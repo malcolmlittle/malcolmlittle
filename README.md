@@ -10,7 +10,7 @@ I'm a full stack developer who enjoys working with backend technologies. Familia
 
 
 ## 🛠 Skills
-JavaScript, NodeJS, React, MSSQL, Express, HTML/CSS, Github, Microsoft Azure, VS Code, OOP, MVC
+C#, .NET, JavaScript, NodeJS, React, MSSQL, Express, HTML/CSS, Github, Microsoft Azure, VS Code, OOP, MVC
 
 <!--
 **malcolmlittle/malcolmlittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
