@@ -5,10 +5,6 @@
 I'm a full stack developer who enjoys working with backend technologies. Familiar with MongoDB, PostgreSQL, SQL Server and ORMs like MikrORM and Sequelize.
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malcolm-little-50661b77/)
-
-
 ## 🛠 Skills
 C#, .NET, JavaScript, NodeJS, React, MSSQL, Express, HTML/CSS, Github, Microsoft Azure, VS Code, OOP, MVC
 
