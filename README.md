@@ -6,7 +6,7 @@ I'm a full stack developer who enjoys working with backend technologies. Familia
 
 
 ## 🛠 Skills
-C#, .NET, JavaScript, NodeJS, React, MSSQL, Express, HTML/CSS, Github, Microsoft Azure, VS Code, OOP, MVC
+C#, .NET, ASP.NET Core Web API, EF Core, REST APIs, OpenAPI/Swagger, SQL Server, PostgreSQL, Git, Azure DevOps, Jira, JavaScript, Visual Studio, JetBrains Rider
 
 <!--
 **malcolmlittle/malcolmlittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
